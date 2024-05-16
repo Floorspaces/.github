@@ -14,7 +14,7 @@ Floorspaces is a concept to allow businesses of any type to draw 3D interactive 
 
 📱 floorspaces-live - Live 3D interface for rendering floorspaces with Unity, can be deployed to mobile, desktop, web browser, & server.
 
-🕹️ floorspaces-io - Free version of Floorspaces meant to be used by 1 person, everything locally hosted, similar to desktop without cloud services.
+🕹️ floorspaces-io - Free version meant to be used by 1 person, everything locally hosted, similar to desktop without cloud services.
 
 🖥️ floorspaces-desktop - Combination of the 2 Unity interfaces Architect & Live to create a performant desktop app for business users.
 
