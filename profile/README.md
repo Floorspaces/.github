@@ -12,7 +12,7 @@ https://github.com/Floorspaces/Floorspaces
 
 https://github.com/Floorspaces/floorspaces-webUI
 
-🌐 floorspaces-backend - Backend .NET 8 web api for services involving Unity HTTP Requests & web services.
+🌐 floorspaces-platform - Backend .NET 8 web api for services involving Unity HTTP Requests & web services.
 
 https://github.com/Floorspaces/floorspaces-backend
 
