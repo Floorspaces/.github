@@ -6,10 +6,18 @@ Floorspaces is a concept to allow businesses of any type to draw 3D interactive 
 
 🧱 Floorspaces - Original monolithic repository with every part of the Floorspaces.io web deployment.
 
+https://github.com/Floorspaces/Floorspaces
+
 🎨 floorspaces-webUI - Frontend web interface for designing & interacting with floorspaces. (Vue/Quasar/TypeScript/Unity+WebGL)
+
+https://github.com/Floorspaces/floorspaces-webUI
 
 🌐 floorspaces-backend - Backend .NET 8 web api for services involving Unity HTTP Requests & web services.
 
+https://github.com/Floorspaces/floorspaces-backend
+
 🧑‍💼 floorspaces-unity - Interfaces for building and interacting with floorspaces, different Unity projects for different releases.
+
+https://github.com/Floorspaces/floorspaces-unity
 
 <hr>
