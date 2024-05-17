@@ -1,6 +1,6 @@
 ## Hello, welcome to the Floorspaces Platform
 
-Floorspaces is a concept to allow businesses of any type to draw 3D interactive maps of their venue, and allow users of the live "floorspace" to interact with eachother, business data, and applications. We are early in development, and still building the groundwork to allow everyone to create floorspaces. We intend for the final product that is a "floorspace" to be visually appealing, and more detailed than other mapping software out there, while still keeping a simple process to architecting a floorspace..
+Floorspaces is a concept to allow businesses of any type to draw 3D interactive maps of their venue, and allow users of the live "floorspace" to interact with eachother, business data, and applications. We are early in development, and still building the groundwork to allow everyone to create floorspaces. We intend for the final product that is a "floorspace" to be visually appealing, and more detailed than other mapping software out there, while still keeping a simple process to architecting a floorspace.
 
 ### Repositories
 
